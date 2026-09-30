@@ -36,6 +36,7 @@ pip install -r requirements.txt
 
 python app.py
 
+
 ## Project URL
 
 https://roadmap.sh/projects/blogging-platform-api
